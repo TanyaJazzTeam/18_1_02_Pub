@@ -31,7 +31,6 @@ of unnecessary tests.
 
 ### All code should have unit tests
 
-# hhhhhh
 
 For any code you write, you should also write its unit tests. If you write a new
 file `foo.py`, you should place its unit tests in `foo_test.py` and submit it
