@@ -13,7 +13,6 @@ All code contributors are required to sign a
 
 ## General principles
 
-### Only depend on what you use in your BUILD rules
 
 TensorFlow is a large library, and depending on the full package when
 writing a unit test for its submodules has been a common practice. However, this
